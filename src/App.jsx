@@ -12,7 +12,6 @@ const App = () => {
       {/* Header */}
       <header className="py-4">
         <nav className="container mx-auto flex justify-between items-center">
-          {/* Logo */}
           <div className="text-2xl font-bold">
             <img src="/path-to-logo" alt="Logo" className="h-10" />
           </div>
