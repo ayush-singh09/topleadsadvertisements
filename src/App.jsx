@@ -16,8 +16,6 @@ const App = () => {
           <div className="text-2xl font-bold">
             <img src="/path-to-logo" alt="Logo" className="h-10" />
           </div>
-
-          {/* Navigation */}
           <ul className="flex space-x-8">
             <li>
               <a href="#home" className="hover:text-gray-300">
